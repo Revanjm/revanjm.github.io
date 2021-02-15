@@ -512,6 +512,10 @@ nav {
   font-weight: 400;
   text-align: center;
   text-transform: uppercase;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  bottom: 49px
 }
 
 .all_cities a {
